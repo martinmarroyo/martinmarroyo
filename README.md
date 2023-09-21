@@ -1,4 +1,4 @@
-# Hi, I'm Martin. Welcome to my Github Page
+# Hi, I'm Martin. Welcome to my Github
 *Data Engineer @Honda Research Institute/99P Labs.*
 *Data Analytics Instructor @COOP Careers.*
 *Curious human.*
