@@ -35,7 +35,7 @@ By leveraging `teachdb` and Google Colab, we are able to set up a basic database
 ---
 ### [**Texas Essential Knowledge and Skills (TEKS) Parts of Speech Analysis**](https://github.com/martinmarroyo/teks_pos_analysis/tree/main#readme) 
 
-This is one of my favorite projects because I was fortunate to be able to have a positive impact on a great organization while sharpening my own skills. I worked with a non-profit organization called Celebrate Dyslexia to analyze raw text data to help them create a curriculum for young children with dyslexia. 
+This is one of my favorite projects because I was fortunate to be able to have a positive impact on a great organization while sharpening my own skills. In Fall 2021, I worked with a non-profit organization called Celebrate Dyslexia to analyze raw text data to help them create a curriculum for young children with dyslexia. 
 
 I created a web scraper to grab the data, used an NLP model to help me extract verbs, analyzed the results to find the most common verbs across each subject, and created a dashboard that would allow the team to interactively look through the results to help craft their curriculum. 
 
